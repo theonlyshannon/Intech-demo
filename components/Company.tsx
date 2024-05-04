@@ -16,7 +16,7 @@ const Company = () => {
 
     return (
         <div id='company'>
-            <div className="relative isolate overflow-hidden py-24 sm:py-32" >
+            <div className="relative isolate overflow-hidden py-24 sm:py-32 bg-white" >
                 <div className="mx-auto max-w-7xl px-6 lg:px-8">
                     <div className="mx-auto max-w-2xl lg:mx-0">
                         <h2 className="text-4xl font-bold tracking-tight text-dark sm:text-6xl">Digitalize With Us</h2>

@@ -20,10 +20,10 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="en">
+    <html lang="en" className="!scroll-smooth">
       <body className="font-poppins">
         <Navbar />
-        <main className="relative overflow-hidden" >
+        <main className="overflow-hidden" >
           {children}
         </main>
         {/* <Footer /> */}

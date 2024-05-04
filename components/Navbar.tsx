@@ -8,6 +8,7 @@ import Logo from '@/public/Logo InTech.png';
 
 
 
+
 const navigation = [
     { name: 'TechStack', href: '#feature' },
     { name: 'Testimonial', href: '#testimoni' },
